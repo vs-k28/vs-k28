@@ -1,16 +1,56 @@
-### Hi there 👋
+### Hello.. I'am Vidyasri
 
-<!--
-**vs-k28/vs-k28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Driven Innovator | Front-End Enthusiast
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced problem-solver with strong analytical skills, using data to gain insights. Proficient in data analysis (Python), data visualization (Tableau), and exploring front-end development (HTML/CSS/JS) to address real-world challenges. 
+
+### Skills
+
+- Data Analysis & Visualization: Python, Tableau, Excel
+- Front-End Development: HTML, CSS, JavaScript, 
+- Problem Solving & Critical Thinking
+- User Experience Design
+
+### Projects
+
+- [Analyzed and Visualized 'Friends' TV Series Data Using Tableau](https://public.tableau.com/views/Friends_17032326360380/FriendsDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+  Description: The "Friends" TV series data analysis project involved extracting and organizing various aspects of the show, such as episode details, and audience     
+  engagement metrics.
+  Utilizing Tableau, comprehensive visualizations were created to depict trends, patterns, and insights within the data, offering a dynamic perspective on the show's    dynamics and popularity over its seasons.
+  
+- [Sales Prediction Regression Modeling Using Excel](Link)
+  Description: Utilized advanced regression analysis techniques in Excel to develop predictive models for sales forecasting and built regression models to forecast   
+  future sales performance.
+
+- [Time series analysis and forescasting in Python](Link)
+  Description: Utilized Python for time series analysis and ARIMA model implementation. Optimized model parameters to generate more accurate forecasts.
+
+- [Web Applications and Websites](Link)
+  "I have developed a variety of web applications and websites, including:
+    - A weather app providing real-time forecasts,
+    - A school website with essential information and resources,
+    - An e-commerce platform enabling online shopping, and
+    - A quiz web app for interactive user engagement.
+
+Check out these and other projects in my [portfolio](https://myresume-kvs.netlify.app/) or [GitHub repository](https://github.com/vs-k28?tab=repositories) for a comprehensive overview of my work."
+
+### Tools
+
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
+- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) Excel
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
+- ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy
+- ![SciPy](https://img.icons8.com/color/48/000000/scipy.png) SciPy
+- ![Statsmodels](https://img.icons8.com/color/48/000000/statsmodels.png) Statsmodels
+- ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) Seaborn
+
+### Contact Me
+
+- GitHub: [Your GitHub Profile Link]([GitHub Link](https://github.com/vs-k28))
+- Email: [Your Email Address](mailto:kandukurividyasri@gmail.com)
