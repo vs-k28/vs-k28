@@ -38,7 +38,7 @@ Check out these and other projects in my [portfolio](https://myresume-kvs.netlif
 
 ### Tools
 
-![Python](https://img.icons8.com/color/48/000000/python.png)![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)![HTML](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![Pandas](https://img.icons8.com/color/48/000000/pandas.png)![NumPy](https://img.icons8.com/color/48/000000/numpy.png)SciPy(https://www.scipy.org/)!**[Statsmodels](https://www.statsmodels.org/static/images/logo.png)](https://www.statsmodels.org/)!**[Seaborn](https://pydata.org/static/img/seaborn_logo.png)](https://seaborn.pydata.org/)
+![Python](https://img.icons8.com/color/48/000000/python.png)![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)![HTML](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![Pandas](https://img.icons8.com/color/48/000000/pandas.png)![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
 
 
 ### Contact Me
