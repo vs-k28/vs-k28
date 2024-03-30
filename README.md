@@ -47,5 +47,4 @@ Check out these and other projects in my [portfolio](https://myresume-kvs.netlif
 
 ### Contact Me
 
-GitHub: [GitHub Link](https://github.com/vs-k28)
 Email: [kandukurividyasri@gmail.com](mailto:kandukurividyasri@gmail.com)
