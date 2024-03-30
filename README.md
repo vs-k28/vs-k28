@@ -27,10 +27,11 @@ Experienced problem-solver with strong analytical skills, using data to gain ins
   future sales performance.
 
 - [Time series analysis and forescasting in Python](Link)
-- 
+ 
   Description: Utilized Python for time series analysis and ARIMA model implementation. Optimized model parameters to generate more accurate forecasts.
 
 - [Web Applications and Websites](Link)
+  
   I have developed a variety of web applications and websites, including:
     - A weather app providing real-time forecasts,
     - A school website with essential information and resources,
