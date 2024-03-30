@@ -1,4 +1,4 @@
-### Hello.. I'am Vidyasri
+# Hello.. I'am Vidyasri
 
 ## Data Driven Innovator | Front-End Enthusiast
 
@@ -38,17 +38,16 @@ Check out these and other projects in my [portfolio](https://myresume-kvs.netlif
 
 ### Tools
 
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
-- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) Excel
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
-- ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy
-- ![SciPy](https://img.icons8.com/color/48/000000/scipy.png) SciPy
-- ![Statsmodels](https://img.icons8.com/color/48/000000/statsmodels.png) Statsmodels
-- ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) Seaborn
+![Python](https://img.icons8.com/color/48/000000/python.png) ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
+![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) Excel
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy
+![SciPy](https://img.icons8.com/color/48/000000/scipy.png) SciPy
+![Statsmodels](https://img.icons8.com/color/48/000000/statsmodels.png) Statsmodels
+![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) Seaborn
 
 ### Contact Me
 
