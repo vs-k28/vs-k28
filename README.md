@@ -16,25 +16,28 @@ Experienced problem-solver with strong analytical skills, using data to gain ins
 ### Projects
 
 - [Analyzed and Visualized 'Friends' TV Series Data Using Tableau](https://public.tableau.com/views/Friends_17032326360380/FriendsDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+  
   Description: The "Friends" TV series data analysis project involved extracting and organizing various aspects of the show, such as episode details, and audience     
   engagement metrics.
   Utilizing Tableau, comprehensive visualizations were created to depict trends, patterns, and insights within the data, offering a dynamic perspective on the show's    dynamics and popularity over its seasons.
   
 - [Sales Prediction Regression Modeling Using Excel](Link)
+  
   Description: Utilized advanced regression analysis techniques in Excel to develop predictive models for sales forecasting and built regression models to forecast   
   future sales performance.
 
 - [Time series analysis and forescasting in Python](Link)
+- 
   Description: Utilized Python for time series analysis and ARIMA model implementation. Optimized model parameters to generate more accurate forecasts.
 
 - [Web Applications and Websites](Link)
-  "I have developed a variety of web applications and websites, including:
+  I have developed a variety of web applications and websites, including:
     - A weather app providing real-time forecasts,
     - A school website with essential information and resources,
     - An e-commerce platform enabling online shopping, and
     - A quiz web app for interactive user engagement.
 
-Check out these and other projects in my [portfolio](https://myresume-kvs.netlify.app/) or [GitHub repository](https://github.com/vs-k28?tab=repositories) for a comprehensive overview of my work."
+Check out these and other projects in my [portfolio](https://myresume-kvs.netlify.app/) or [GitHub repository](https://github.com/vs-k28?tab=repositories) for a comprehensive overview of my work.
 
 ### Tools
 
