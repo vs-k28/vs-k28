@@ -1,17 +1,17 @@
 # Hello.. I'am Vidyasri
 
-## Data Driven Innovator | Front-End Enthusiast
+## Data Driven Innovator 
 
 ### About Me
 
-Experienced problem-solver with strong analytical skills, using data to gain insights. Proficient in data analysis (Python), data visualization (Tableau), and exploring front-end development (HTML/CSS/JS) to address real-world challenges. 
+Experienced problem-solver with strong analytical skills, using data to gain insights. Proficient in data analysis (Python), data visualization (Power BI) exploring ways to address real-world challenges. 
 
 ### Skills
 
-- Data Analysis & Visualization: Python, Tableau, Excel
+- Data Analysis & Visualization: Python, Power BI, Excel
 - Front-End Development: HTML, CSS, JavaScript, 
 - Problem Solving & Critical Thinking
-- User Experience Design
+- Rootcause Analysis
 
 ### Projects
 
