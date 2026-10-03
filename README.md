@@ -1,17 +1,20 @@
 # Hello.. I'am Vidyasri
 
-## Data Driven Innovator 
+## Investigation Specialist / Technical Support Specialist
 
 ### About Me
 
-Experienced problem-solver with strong analytical skills, using data to gain insights. Proficient in data analysis (Python), data visualization (Power BI) exploring ways to address real-world challenges. 
+Detail-oriented Investigation and Operations professional with experience in conducting in-depth investigations, analyzing complex data, identifying suspicious patterns, and performing root cause analysis. Skilled in risk identification, SOP compliance, and data-driven decision-making. Experienced in AI data review, operational analysis, and technical support, with a strong focus on data integrity, risk mitigation, and continuous process improvement.
 
 ### Skills
 
-- Data Analysis & Visualization: Python, Power BI, Excel
-- Front-End Development: HTML, CSS, JavaScript, 
-- Problem Solving & Critical Thinking
-- Rootcause Analysis
+- Investigation & Risk Analysis: Deep Dive Analysis, Risk & Anomaly Identification, Root Cause Analysis
+- Data Analysis & Visualization: MS Excel, Google Sheets, Basic SQL, Power BI
+- Compliance & Operations: SOP Compliance, Policy Adherence, Case Investigation, Operational Reporting
+- Technical Support: Troubleshooting, Issue Resolution, Process Improvement
+- AI Data Review: Data Validation, Quality Analysis, Anomaly Detection
+- Front-End Development: HTML, CSS, JavaScript
+- Core Competencies: Analytical Thinking, Problem Solving, Critical Thinking, Written & Verbal Communication
 
 ### Projects
 
