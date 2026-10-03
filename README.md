@@ -41,7 +41,7 @@ Detail-oriented Investigation and Operations professional with experience in con
     - An e-commerce platform enabling online shopping, and
     - A quiz web app for interactive user engagement.
 
-Check out these and other projects in my [portfolio](https://myresume-kvs.netlify.app/) or [GitHub repository](https://github.com/vs-k28?tab=repositories) for a comprehensive overview of my work.
+Check out these and other projects in my [portfolio]([https://myresume-kvs.netlify.app/](https://vsresumeportfolio.netlify.app)) or [GitHub repository](https://github.com/vs-k28?tab=repositories) for a comprehensive overview of my work.
 
 ### Tools
 
